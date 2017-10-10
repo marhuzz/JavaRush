@@ -1,0 +1,5 @@
+<div class="wdghtml" taskKey="com.javarush.task.task23.task2302">
+<h3>Запрети переопределение</h3>
+<p>Запрети переопределение метода <mark>onMouseDown</mark>.</p>
+
+</div>

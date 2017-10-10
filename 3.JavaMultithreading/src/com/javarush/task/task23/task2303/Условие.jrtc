@@ -1,0 +1,5 @@
+<div class="wdghtml" taskKey="com.javarush.task.task23.task2303">
+<h3>Запрети создание экземпляров класса</h3>
+<p>Запрети создание экземпляров класса <span class="text-corporate"><strong>Listener</strong></span>.</p>
+
+</div>

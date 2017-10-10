@@ -1,0 +1,5 @@
+<div class="wdghtml" taskKey="com.javarush.task.task23.task2301">
+<h3>Запрети наследование</h3>
+<p>Запрети наследование от класса <span class="text-corporate"><strong>Listener</strong></span>.</p>
+
+</div>

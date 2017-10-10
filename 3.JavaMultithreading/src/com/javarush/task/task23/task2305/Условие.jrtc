@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task23.task2305">
+<h3>Inner</h3>
+<p>Реализовать метод <mark>getTwoSolutions</mark>, который должен возвращать массив из <span class="text-user"><strong>2</strong></span>-х экземпляров класса <span class="text-corporate"><strong>Solution</strong></span>.<br />
+Для каждого экземпляра класса <span class="text-corporate"><strong>Solution</strong></span> инициализировать поле <mark class="user">innerClasses</mark> двумя значениями.<br />
+Инициализация всех данных должна происходить только в методе <mark>getTwoSolutions</mark>.</p>
+
+</div>

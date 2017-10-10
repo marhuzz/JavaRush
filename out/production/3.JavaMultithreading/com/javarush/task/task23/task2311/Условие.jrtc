@@ -1,0 +1,9 @@
+<div class="wdghtml" taskKey="com.javarush.task.task23.task2311">
+<h3>Повторяем threads</h3>
+<p>Сделать так, чтобы в методе <mark>someActions</mark> вызывались только методы класса <span class="text-corporate"><strong>Solution</strong></span>.</p>
+<p><strong>Ожидаемый вывод в методе main:</strong><br />
+<code>Amigo: Mmmmm, beef<br />
+Amigo: knock knock<br />
+Amigo: Zzzzzzz...1 sec</code></p>
+
+</div>

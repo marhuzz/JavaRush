@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task23.task2308">
+<h3>Рефакторинг, вложенные классы</h3>
+<p>Отрефакторите класс <span class="text-corporate"><strong>Solution</strong></span>: вынесите все константы в <strong><span class="text-corporate">public</span></strong> вложенный(<strong>nested</strong>) класс <strong><span class="text-corporate">Constants</span></strong>.<br />
+Запретите наследоваться от <span class="text-corporate"><strong>Constants</strong></span>.</p>
+
+</div>

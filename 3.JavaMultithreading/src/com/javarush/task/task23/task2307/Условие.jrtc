@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task23.task2307">
+<h3>Как выбрать нужное?</h3>
+<p>В методе <mark>main</mark> присвой объекту <mark class="green">Object obj</mark> экземпляр класса <strong><span class="text-corporate">TEST</span></strong>.<br />
+Не изменяй ничего кроме метода <mark>main</mark>.</p>
+
+</div>
